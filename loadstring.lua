@@ -1,3 +1,3 @@
 pcall(function()
-   loadstring(game:HttpGet("https://raw.githubusercontent.com/Herrtt/AimHot-v8/master/Main.lua", true))()
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/FloofiFurri/Aimbot/main/Main.lua?token=AVIZH5ARDD2XSE3DB4IUGRDBORIXY", true))()
 end)
